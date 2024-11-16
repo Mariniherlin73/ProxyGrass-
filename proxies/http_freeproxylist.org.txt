@@ -1,0 +1,1880 @@
+Proxy country:
+            
+            any
+USA and Canada
+The Western Europe
+The Eastern Europe
+The Arab World
+The Western Asia
+The Eastern Asia
+Argentina
+Australia
+Austria
+Bangladesh
+Bosnia and Herzegovina
+Brazil
+British Virgin Islands
+Bulgaria
+Burundi
+Cambodia
+Canada
+Chile
+China
+Colombia
+Cyprus
+Czechia
+Dominican Republic
+Ecuador
+Egypt
+Finland
+France
+Germany
+Ghana
+Guatemala
+Honduras
+Hong Kong
+Hungary
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Japan
+Kazakhstan
+Kenya
+Latvia
+Lebanon
+Libya
+Lithuania
+Macao
+Malaysia
+Mexico
+Myanmar
+Nepal
+Netherlands
+Pakistan
+Paraguay
+Peru
+Philippines
+Poland
+Portugal
+Qatar
+Russia
+Saudi Arabia
+Senegal
+Seychelles
+Singapore
+South Africa
+South Korea
+Spain
+Sweden
+Switzerland
+Taiwan
+Tanzania
+Thailand
+Turkey
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+Uzbekistan
+Venezuela
+Vietnam
+            
+            
+            Supports SSL/HTTPS: 
+            
+              any
+yes
+no
+            
+            
+            Min. proxy speed (kb/sec): 
+            
+              
+            
+          
+          
+            Proxy port:  
+            
+				any
+80, 3128, 8080
+22
+45
+80
+81
+82
+83
+85
+88
+443
+999
+1000
+1010
+1011
+1024
+1033
+1080
+1083
+1085
+1111
+1311
+1471
+1977
+1981
+2222
+2324
+3021
+3030
+3127
+3128
+3129
+4000
+4001
+4006
+4007
+4090
+4145
+4541
+4737
+4750
+4780
+5153
+5175
+5678
+6066
+7071
+7777
+7788
+7890
+7899
+7979
+8000
+8002
+8008
+8023
+8060
+8080
+8081
+8082
+8083
+8085
+8088
+8089
+8090
+8091
+8099
+8118
+8123
+8128
+8133
+8168
+8180
+8181
+8205
+8282
+8443
+8561
+8789
+8880
+8888
+8989
+9000
+9002
+9080
+9090
+9091
+9098
+9292
+9400
+9418
+9480
+9595
+9699
+9812
+9950
+9999
+10000
+10001
+10002
+10057
+10060
+10111
+10251
+10338
+10514
+11123
+11222
+15419
+16415
+16491
+18080
+18081
+18888
+18949
+19551
+19563
+23459
+25803
+26903
+27087
+27145
+27157
+28062
+28888
+28903
+29008
+29181
+29667
+29971
+29999
+30000
+30001
+30110
+30118
+30119
+30447
+30463
+30807
+31288
+32273
+32363
+32650
+33333
+34405
+34409
+34411
+40000
+41451
+42233
+47115
+47224
+47313
+58080
+59245
+59246
+60001
+            
+            
+            Supports CONNECT: 
+            
+              any
+yes
+no
+            
+            
+            Max. proxy ping (sec): 
+            
+          
+          
+            Proxy type: 
+            
+		      any
+transparent
+anonymous
+elite
+anonymouse or elite
+            
+            
+            Supporst POST&GET: 
+            
+              any
+yes
+no
+            
+            
+            Min. uptime (%): 
+            
+          
+          
+            Section: 
+            
+				both
+free proxy servers
+VIP proxy servers
+            
+            
+            Min. Uptime (Hour):
+            
+            
+            Time interval (min):
+            
+          
+      
+    
+    
+      
+          
+            Captcha code to unlock free proxies:
+            
+            
+            
+            Your IP: 
+            
+                
+            
+          
+          
+            Enter unlock code here:  
+              
+            
+            
+            
+          
+      
+    
+    
+      
+    
+  
+  
+
+
+  
+    Dynamic link to download proxy and socks servers in clean TXT format file will be shown here:
+        NOTE for VIP users: no need to generate link "every minute", do it once and it will work till the code expiration
+            
+            
+            
+        Please take into account that if you use FREE unlock code to generate download link, 
+        this download link will be "alive" only for the next 10 minutes. 
+  
+
+
+
+  
+     
+    Server
+    Ping
+    Speed
+    Uptime
+    Uptime
+    Type
+    Country
+    SSL
+    CONN.
+    POST
+    
+    Last work time
+  
+  
+  
+  
+    
+    60.*.*.*:80
+    0.2890
+    21.28
+    49%
+    359H
+    anonymous
+    Australia
+    
+    
+        
+    45 second(s) ago
+  
+  
+  
+    
+    60.*.*.*:80
+    0.8250
+    14.99
+    73%
+    614H
+    anonymous
+    Australia
+    
+    
+        
+    45 second(s) ago
+  
+  
+  
+    
+    117.*.*.*:80
+    7.7210
+    10.07
+    13%
+    78H
+    anonymous
+    Indonesia
+    
+    
+        
+    45 second(s) ago
+  
+  
+  
+    
+    47.*.*.*:80
+    0.7500
+    9.30
+    91%
+    2118H
+    anonymous
+    China
+    
+    
+        
+    45 second(s) ago
+  
+  
+  
+    
+    103.*.*.*:80
+    ?
+    22.42
+    42%
+    524H
+    transparent
+    Bangladesh
+    
+    
+        
+    45 second(s) ago
+  
+  
+  
+    
+    212.*.*.*:80
+    1.3410
+    25.77
+    85%
+    523H
+    anonymous
+    Hong Kong
+    
+    
+        
+    45 second(s) ago
+  
+  
+  
+    
+    41.*.*.*:80
+    0.6690
+    58.48
+    38%
+    138H
+    anonymous
+    Ghana
+    
+    
+        
+    45 second(s) ago
+  
+  
+  
+    
+    103.*.*.*:8080
+    0.9010
+    52.63
+    38%
+    283H
+    anonymous
+    Cambodia
+    
+    
+        
+    45 second(s) ago
+  
+  
+  
+    
+    157.*.*.*:80
+    0.8800
+    51.28
+    71%
+    447H
+    anonymous
+    United States
+    
+    
+        
+    45 second(s) ago
+  
+  
+  
+    
+    91.*.*.*:9090
+    0.4860
+    31.88
+    50%
+    137H
+    anonymous
+    Ukraine
+    
+    
+        
+    45 second(s) ago
+  
+  
+  
+    
+    138.*.*.*:80
+    5.9080
+    3.62
+    16%
+    25H
+    elite
+    United States
+    
+    
+        
+    45 second(s) ago
+  
+  
+  
+    
+    78.*.*.*:80
+    0.1560
+    11.81
+    95%
+    415H
+    anonymous
+    Turkey
+    
+    
+        
+    45 second(s) ago
+  
+  
+  
+    
+    39.*.*.*:8008
+    ?
+    ?
+    18%
+    406H
+    elite
+    China
+    
+    
+        
+    45 second(s) ago
+  
+  
+  
+    
+    128.*.*.*:8080
+    2.4160
+    1.51
+    69%
+    103H
+    elite
+    Germany
+    
+    
+        
+    45 second(s) ago
+  
+  
+  
+    
+    123.*.*.*:80
+    0.6710
+    ?
+    67%
+    1342H
+    anonymous
+    China
+    
+    
+        
+    45 second(s) ago
+  
+  
+  
+    
+    106.*.*.*:7899
+    ?
+    ?
+    27%
+    422H
+    elite
+    China
+    
+    
+        
+    45 second(s) ago
+  
+  
+  
+    
+    36.*.*.*:8888
+    ?
+    ?
+    62%
+    2410H
+    anonymous
+    China
+    
+    
+        
+    45 second(s) ago
+  
+  
+  
+    
+    221.*.*.*:9480
+    ?
+    ?
+    92%
+    64H
+    elite
+    China
+    
+    
+        
+    45 second(s) ago
+  
+  
+  
+    
+    39.*.*.*:8090
+    ?
+    ?
+    66%
+    63H
+    anonymous
+    China
+    
+    
+        
+    45 second(s) ago
+  
+  
+  
+    
+    103.*.*.*:1111
+    5.4780
+    0.94
+    11%
+    123H
+    transparent
+    Indonesia
+    
+    
+        
+    45 second(s) ago
+  
+  
+  
+    
+    185.*.*.*:80
+    0.3930
+    ?
+    61%
+    390H
+    transparent
+    Portugal
+    
+    
+        
+    45 second(s) ago
+  
+  
+  
+    
+    148.*.*.*:30118
+    0.9990
+    1.47
+    40%
+    81H
+    anonymous
+    United States
+    
+    
+        
+    45 second(s) ago
+  
+  
+  
+    
+    72.*.*.*:4737
+    ?
+    ?
+    100%
+    ?
+    elite
+    Canada
+    
+    
+        
+    55 second(s) ago
+  
+  
+  
+    
+    203.*.*.*:8080
+    0.7970
+    31.75
+    53%
+    291H
+    anonymous
+    Cambodia
+    
+    
+        
+    1:44 minute(s) ago
+  
+  
+  
+    
+    49.*.*.*:8081
+    0.1210
+    22.27
+    93%
+    419H
+    transparent
+    Germany
+    
+    
+        
+    1:44 minute(s) ago
+  
+  
+  
+    
+    104.*.*.*:80
+    1.3280
+    43.48
+    74%
+    10H
+    anonymous
+    United States
+    
+    
+        
+    1:44 minute(s) ago
+  
+  
+  
+    
+    41.*.*.*:80
+    0.3110
+    51.55
+    65%
+    977H
+    anonymous
+    Ghana
+    
+    
+        
+    1:44 minute(s) ago
+  
+  
+  
+    
+    23.*.*.*:80
+    0.2850
+    192.31
+    94%
+    2735H
+    anonymous
+    Singapore
+    
+    
+        
+    1:44 minute(s) ago
+  
+  
+  
+    
+    61.*.*.*:80
+    0.8550
+    52.91
+    42%
+    67H
+    anonymous
+    South Korea
+    
+    
+        
+    1:44 minute(s) ago
+  
+  
+  
+    
+    47.*.*.*:80
+    2.6950
+    13.79
+    78%
+    1779H
+    anonymous
+    China
+    
+    
+        
+    1:44 minute(s) ago
+  
+  
+  
+    
+    188.*.*.*:80
+    0.3940
+    72.99
+    43%
+    236H
+    anonymous
+    Latvia
+    
+    
+        
+    1:44 minute(s) ago
+  
+  
+  
+    
+    116.*.*.*:3128
+    0.3200
+    3.80
+    49%
+    443H
+    elite
+    Germany
+    
+    
+        
+    1:44 minute(s) ago
+  
+  
+  
+    
+    203.*.*.*:1080
+    4.7590
+    3.05
+    49%
+    1615H
+    anonymous
+    China
+    
+    
+        
+    1:44 minute(s) ago
+  
+  
+  
+    
+    190.*.*.*:80
+    5.2690
+    11.99
+    69%
+    3044H
+    anonymous
+    Argentina
+    
+    
+        
+    1:44 minute(s) ago
+  
+  
+  
+    
+    203.*.*.*:8080
+    0.9780
+    6.12
+    48%
+    106H
+    anonymous
+    Cambodia
+    
+    
+        
+    1:44 minute(s) ago
+  
+  
+  
+    
+    103.*.*.*:80
+    0.2580
+    9.54
+    41%
+    1428H
+    anonymous
+    Singapore
+    
+    
+        
+    1:44 minute(s) ago
+  
+  
+  
+    
+    5.*.*.*:3128
+    3.6560
+    6.72
+    29%
+    127H
+    transparent
+    Germany
+    
+    
+        
+    1:44 minute(s) ago
+  
+  
+  
+    
+    179.*.*.*:8080
+    1.1870
+    22.08
+    67%
+    70H
+    anonymous
+    Honduras
+    
+    
+        
+    2:53 minute(s) ago
+  
+  
+  
+    
+    46.*.*.*:3128
+    1.6380
+    26.26
+    56%
+    254H
+    elite
+    Russia
+    
+    
+        
+    2:53 minute(s) ago
+  
+  
+  
+    
+    178.*.*.*:3128
+    0.2460
+    9.71
+    19%
+    227H
+    transparent
+    Russia
+    
+    
+        
+    2:53 minute(s) ago
+  
+  
+
+
+Pages:
+    
+  1 
+  2
+     
+  3
+     
+  4
+     
+  5
+     
+  6
+     
+  7
+     
+  8
+     
+  9
+     
+  10
+     
+  11
+     
+  12
+     
+  13
+     
+  14
+     
+  15
+     
+  16
+     
+  17
+     
+  18
+     
+  19
+     
+  20
+     
+  21
+    
+
+
+
+  
+    Unlock code: the code to unlock proxy servers and to see the IP addresses without '*' chars. Here you have two options:
+        
+           you can use the FREE unlock code shown as a captcha, but take into account that it will valid only for the next 10 minutes
+          you can buy VIP unlock code to see all proxy or socks servers we have at that moment at our database, paid unlock code will be valid until it expires. In case you will select second option, you will see download link with proxy servers that you can use in any software that accepts proxy servers in following format:A.B.C.D:PORT as clean TXT file
+        
+        Country, port, type: here will be stored what country this proxy server is from, it's connection port and type (anonnymous, elite or transparent)
+         Section: you can select what kind of proxy or socks servers you want to see, free public or paid private ones.
+        SSL/HTTPS, CONNECT, POST&GET: shows if you are looking for proxy servers which supports following methods.
+        CoDeeN: in case you just want to download some files, use this option (recomended).
+     
+    Min. proxy speed: select the minimum proxy or socks speed in kbytes per second you need.
+        Max. proxy ping: select the maximum proxy ping value in seconds. That is not just a simple reponse time that many other web sites show. This is real time in seconds which proxy requires to establish HTTP connection with the required server(website).
+        Min. Uptime: select the minimum uptime for proxy servers which you want to have in search result.
+        Interval: put the amount (from 1 up to 360) of minutes you want to get proxies for. For example, if you put 30, you will get all proxy or socks that were checked and marked as working one maximum 30 minutes ago. The more minutes you enter the more proxies you will get but they will be worse in quality and vice versa.
+        Your IP: IP of your PC or web server, where proxy list will be requested from. Case you are going to request proxies from the PC you are using now, leave it as is. This option will help you to avoid your download link be stolen by third party.:Proxy country:
+            
+            any
+USA and Canada
+The Western Europe
+The Eastern Europe
+The Arab World
+The Western Asia
+The Eastern Asia
+Argentina
+Australia
+Austria
+Bangladesh
+Bosnia and Herzegovina
+Brazil
+British Virgin Islands
+Bulgaria
+Burundi
+Cambodia
+Canada
+Chile
+China
+Colombia
+Cyprus
+Czechia
+Dominican Republic
+Ecuador
+Egypt
+Finland
+France
+Germany
+Ghana
+Guatemala
+Honduras
+Hong Kong
+Hungary
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Japan
+Kazakhstan
+Kenya
+Latvia
+Lebanon
+Libya
+Lithuania
+Macao
+Malaysia
+Mexico
+Myanmar
+Nepal
+Netherlands
+Pakistan
+Paraguay
+Peru
+Philippines
+Poland
+Portugal
+Qatar
+Russia
+Saudi Arabia
+Senegal
+Seychelles
+Singapore
+South Africa
+South Korea
+Spain
+Sweden
+Switzerland
+Taiwan
+Tanzania
+Thailand
+Turkey
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+Uzbekistan
+Venezuela
+Vietnam
+            
+            
+            Supports SSL/HTTPS: 
+            
+              any
+yes
+no
+            
+            
+            Min. proxy speed (kb/sec): 
+            
+              
+            
+          
+          
+            Proxy port:  
+            
+				any
+80, 3128, 8080
+22
+45
+80
+81
+82
+83
+85
+88
+443
+999
+1000
+1010
+1011
+1024
+1033
+1080
+1083
+1085
+1111
+1311
+1471
+1977
+1981
+2222
+2324
+3021
+3030
+3127
+3128
+3129
+4000
+4001
+4006
+4007
+4090
+4145
+4541
+4737
+4750
+4780
+5153
+5175
+5678
+6066
+7071
+7777
+7788
+7890
+7899
+7979
+8000
+8002
+8008
+8023
+8060
+8080
+8081
+8082
+8083
+8085
+8088
+8089
+8090
+8091
+8099
+8118
+8123
+8128
+8133
+8168
+8180
+8181
+8205
+8282
+8443
+8561
+8789
+8880
+8888
+8989
+9000
+9002
+9080
+9090
+9091
+9098
+9292
+9400
+9418
+9480
+9595
+9699
+9812
+9950
+9999
+10000
+10001
+10002
+10057
+10060
+10111
+10251
+10338
+10514
+11123
+11222
+15419
+16415
+16491
+18080
+18081
+18888
+18949
+19551
+19563
+23459
+25803
+26903
+27087
+27145
+27157
+28062
+28888
+28903
+29008
+29181
+29667
+29971
+29999
+30000
+30001
+30110
+30118
+30119
+30447
+30463
+30807
+31288
+32273
+32363
+32650
+33333
+34405
+34409
+34411
+40000
+41451
+42233
+47115
+47224
+47313
+58080
+59245
+59246
+60001
+            
+            
+            Supports CONNECT: 
+            
+              any
+yes
+no
+            
+            
+            Max. proxy ping (sec): 
+            
+          
+          
+            Proxy type: 
+            
+		      any
+transparent
+anonymous
+elite
+anonymouse or elite
+            
+            
+            Supporst POST&GET: 
+            
+              any
+yes
+no
+            
+            
+            Min. uptime (%): 
+            
+          
+          
+            Section: 
+            
+				both
+free proxy servers
+VIP proxy servers
+            
+            
+            Min. Uptime (Hour):
+            
+            
+            Time interval (min):
+Proxy country:
+            
+            any
+USA and Canada
+The Western Europe
+The Eastern Europe
+The Arab World
+The Western Asia
+The Eastern Asia
+Argentina
+Australia
+Austria
+Bangladesh
+Bosnia and Herzegovina
+Brazil
+British Virgin Islands
+Bulgaria
+Burundi
+Cambodia
+Canada
+Chile
+China
+Colombia
+Cyprus
+Czechia
+Dominican Republic
+Ecuador
+Egypt
+Finland
+France
+Germany
+Ghana
+Guatemala
+Honduras
+Hong Kong
+Hungary
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Japan
+Kazakhstan
+Kenya
+Latvia
+Lebanon
+Libya
+Lithuania
+Macao
+Malaysia
+Mexico
+Myanmar
+Nepal
+Netherlands
+Pakistan
+Paraguay
+Peru
+Philippines
+Poland
+Portugal
+Qatar
+Russia
+Saudi Arabia
+Senegal
+Seychelles
+Singapore
+South Africa
+South Korea
+Spain
+Sweden
+Switzerland
+Taiwan
+Tanzania
+Thailand
+Turkey
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+Uzbekistan
+Venezuela
+Vietnam
+            
+            
+            Supports SSL/HTTPS: 
+            
+              any
+yes
+no
+            
+            
+            Min. proxy speed (kb/sec): 
+            
+              
+            
+          
+          
+            Proxy port:  
+            
+				any
+80, 3128, 8080
+22
+45
+80
+81
+82
+83
+85
+88
+443
+999
+1000
+1010
+1011
+1024
+1033
+1080
+1083
+1085
+1111
+1311
+1471
+1977
+1981
+2222
+2324
+3021
+3030
+3127
+3128
+3129
+4000
+4001
+4006
+4007
+4090
+4145
+4541
+4737
+4750
+4780
+5153
+5175
+5678
+6066
+7071
+7777
+7788
+7890
+7899
+7979
+8000
+8002
+8008
+8023
+8060
+8080
+8081
+8082
+8083
+8085
+8088
+8089
+8090
+8091
+8099
+8118
+8123
+8128
+8133
+8168
+8180
+8181
+8205
+8282
+8443
+8561
+8789
+8880
+8888
+8989
+9000
+9002
+9080
+9090
+9091
+9098
+9292
+9400
+9418
+9480
+9595
+9699
+9812
+9950
+9999
+10000
+10001
+10002
+10057
+10060
+10111
+10251
+10338
+10514
+11123
+11222
+15419
+16415
+16491
+18080
+18081
+18888
+18949
+19551
+19563
+23459
+25803
+26903
+27087
+27145
+27157
+28062
+28888
+28903
+29008
+29181
+29667
+29971
+29999
+30000
+30001
+30110
+30118
+30119
+30447
+30463
+30807
+31288
+32273
+32363
+32650
+33333
+34405
+34409
+34411
+40000
+41451
+42233
+47115
+47224
+47313
+58080
+59245
+59246
+60001
+            
+            
+            Supports CONNECT: 
+            
+              any
+yes
+no
+            
+            
+            Max. proxy ping (sec): 
+            
+          
+          
+            Proxy type: 
+            
+		      any
+transparent
+anonymous
+elite
+anonymouse or elite
+            
+            
+            Supporst POST&GET: 
+            
+              any
+yes
+no
+            
+            
+            Min. uptime (%): 
+            
+          
+          
+            Section: 
+            
+				both
+free proxy servers
+VIP proxy servers
+            
+            
+            Min. Uptime (Hour):
+            
+            
+            Time interval (min)::Proxy country:
+Proxy country::any
+USA and Canada
+The Western Europe
+The Eastern Europe
+The Arab World
+The Western Asia
+The Eastern Asia
+Argentina
+Australia
+Austria
+Bangladesh
+Bosnia and Herzegovina
+Brazil
+British Virgin Islands
+Bulgaria
+Burundi
+Cambodia
+Canada
+Chile
+China
+Colombia
+Cyprus
+Czechia
+Dominican Republic
+Ecuador
+Egypt
+Finland
+France
+Germany
+Ghana
+Guatemala
+Honduras
+Hong Kong
+Hungary
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Japan
+Kazakhstan
+Kenya
+Latvia
+Lebanon
+Libya
+Lithuania
+Macao
+Malaysia
+Mexico
+Myanmar
+Nepal
+Netherlands
+Pakistan
+Paraguay
+Peru
+Philippines
+Poland
+Portugal
+Qatar
+Russia
+Saudi Arabia
+Senegal
+Seychelles
+Singapore
+South Africa
+South Korea
+Spain
+Sweden
+Switzerland
+Taiwan
+Tanzania
+Thailand
+Turkey
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+Uzbekistan
+Venezuela
+Vietnam
+Proxy port::any
+80, 3128, 8080
+22
+45
+80
+81
+82
+83
+85
+88
+443
+999
+1000
+1010
+1011
+1024
+1033
+1080
+1083
+1085
+1111
+1311
+1471
+1977
+1981
+2222
+2324
+3021
+3030
+3127
+3128
+3129
+4000
+4001
+4006
+4007
+4090
+4145
+4541
+4737
+4750
+4780
+5153
+5175
+5678
+6066
+7071
+7777
+7788
+7890
+7899
+7979
+8000
+8002
+8008
+8023
+8060
+8080
+8081
+8082
+8083
+8085
+8088
+8089
+8090
+8091
+8099
+8118
+8123
+8128
+8133
+8168
+8180
+8181
+8205
+8282
+8443
+8561
+8789
+8880
+8888
+8989
+9000
+9002
+9080
+9090
+9091
+9098
+9292
+9400
+9418
+9480
+9595
+9699
+9812
+9950
+9999
+10000
+10001
+10002
+10057
+10060
+10111
+10251
+10338
+10514
+11123
+11222
+15419
+16415
+16491
+18080
+18081
+18888
+18949
+19551
+19563
+23459
+25803
+26903
+27087
+27145
+27157
+28062
+28888
+28903
+29008
+29181
+29667
+29971
+29999
+30000
+30001
+30110
+30118
+30119
+30447
+30463
+30807
+31288
+32273
+32363
+32650
+33333
+34405
+34409
+34411
+40000
+41451
+42233
+47115
+47224
+47313
+58080
+59245
+59246
+60001
+Proxy type::any
+transparent
+anonymous
+elite
+anonymouse or elite
+Section::both
+free proxy servers
+VIP proxy servers
+Captcha code to unlock free proxies:
+            
+            
+            
+            Your IP: 
+            
+                
+            
+          
+          
+            Enter unlock code here::Captcha code to unlock free proxies:
