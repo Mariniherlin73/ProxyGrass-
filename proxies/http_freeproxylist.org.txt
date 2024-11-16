@@ -118,7 +118,6 @@ no
 1085
 1111
 1311
-1471
 1977
 2324
 3021
@@ -185,7 +184,6 @@ no
 9400
 9418
 9480
-9595
 9812
 9950
 9999
@@ -201,16 +199,15 @@ no
 11123
 11222
 15419
-16491
 18080
 18081
+18109
 18888
 26903
 27087
 27157
 28062
 28888
-28903
 29008
 29667
 29971
@@ -223,7 +220,6 @@ no
 30807
 31288
 32273
-32363
 32650
 33333
 34405
@@ -345,197 +341,107 @@ VIP proxy servers
   
   
     
-    129.*.*.*:3128
-    0.7210
-    14.92
-    43%
-    259H
+    47.*.*.*:80
+    0.7500
+    9.30
+    91%
+    2119H
     anonymous
-    Singapore
+    China
     
     
         
-    1:20 minute(s) ago
+    47 second(s) ago
   
   
   
     
-    91.*.*.*:80
-    0.1980
-    22.99
-    85%
-    20H
-    anonymous
-    Colombia
-    
-    
-        
-    1:20 minute(s) ago
-  
-  
-  
-    
-    51.*.*.*:3128
-    0.3070
-    24.67
-    21%
-    289H
-    transparent
-    France
-    
-    
-        
-    1:20 minute(s) ago
-  
-  
-  
-    
-    185.*.*.*:80
-    1.0310
-    13.04
-    52%
-    346H
-    transparent
-    Iran
-    
-    
-        
-    1:20 minute(s) ago
-  
-  
-  
-    
-    51.*.*.*:80
-    1.1190
-    11.16
-    37%
-    201H
-    transparent
-    France
-    
-    
-        
-    1:20 minute(s) ago
-  
-  
-  
-    
-    41.*.*.*:80
-    0.3210
-    10.00
-    40%
-    167H
-    anonymous
-    Ghana
-    
-    
-        
-    1:20 minute(s) ago
-  
-  
-  
-    
-    143.*.*.*:8133
-    1.1030
-    10.37
-    19%
-    8H
-    transparent
-    Singapore
-    
-    
-        
-    1:20 minute(s) ago
-  
-  
-  
-    
-    62.*.*.*:3128
-    0.9470
-    31.06
-    45%
-    16H
-    transparent
-    Russia
-    
-    
-        
-    1:20 minute(s) ago
-  
-  
-  
-    
-    27.*.*.*:80
-    0.8350
-    33.22
-    47%
-    225H
-    anonymous
-    Macao
-    
-    
-        
-    1:20 minute(s) ago
-  
-  
-  
-    
-    43.*.*.*:3128
-    2.7180
-    57.80
-    34%
-    422H
-    anonymous
-    Singapore
-    
-    
-        
-    1:20 minute(s) ago
-  
-  
-  
-    
-    212.*.*.*:8081
-    0.3850
-    70.92
-    54%
-    238H
-    anonymous
-    Poland
-    
-    
-        
-    1:20 minute(s) ago
-  
-  
-  
-    
-    185.*.*.*:8080
-    0.3710
-    51.41
-    37%
-    300H
-    anonymous
-    Hungary
-    
-    
-        
-    1:20 minute(s) ago
-  
-  
-  
-    
-    159.*.*.*:4750
-    2.2410
-    42.19
-    37%
-    92H
+    116.*.*.*:5153
+    0.3680
+    3.48
+    42%
+    414H
     elite
-    Singapore
+    Germany
     
     
         
-    1:20 minute(s) ago
+    47 second(s) ago
+  
+  
+  
+    
+    203.*.*.*:88
+    1.2260
+    2.53
+    23%
+    87H
+    transparent
+    Indonesia
+    
+    
+        
+    47 second(s) ago
+  
+  
+  
+    
+    128.*.*.*:999
+    0.6390
+    2.21
+    74%
+    117H
+    elite
+    Germany
+    
+    
+        
+    47 second(s) ago
+  
+  
+  
+    
+    60.*.*.*:80
+    0.2890
+    21.28
+    49%
+    359H
+    anonymous
+    Australia
+    
+    
+        
+    47 second(s) ago
+  
+  
+  
+    
+    87.*.*.*:80
+    0.1930
+    25.19
+    76%
+    508H
+    anonymous
+    France
+    
+    
+        
+    47 second(s) ago
+  
+  
+  
+    
+    196.*.*.*:8080
+    0.8580
+    45.87
+    58%
+    240H
+    anonymous
+    South Africa
+    
+    
+        
+    47 second(s) ago
   
   
   
@@ -544,403 +450,493 @@ VIP proxy servers
     0.6680
     39.06
     44%
-    1084H
+    1085H
     anonymous
     Hong Kong
     
     
         
-    1:20 minute(s) ago
+    47 second(s) ago
   
   
   
     
-    78.*.*.*:80
-    0.4420
-    39.37
-    60%
-    1246H
-    elite
-    Czechia
-    
-    
-        
-    1:20 minute(s) ago
-  
-  
-  
-    
-    34.*.*.*:8561
-    7.1120
-    9.58
-    38%
-    10H
-    anonymous
-    India
-    
-    
-        
-    1:20 minute(s) ago
-  
-  
-  
-    
-    133.*.*.*:80
-    0.7240
-    20.37
-    91%
-    3054H
-    anonymous
-    Japan
-    
-    
-        
-    1:20 minute(s) ago
-  
-  
-  
-    
-    47.*.*.*:8128
-    ?
-    ?
-    76%
-    39H
-    elite
-    China
-    
-    
-        
-    1:20 minute(s) ago
-  
-  
-  
-    
-    103.*.*.*:8080
-    5.3460
-    1.55
-    10%
-    13H
-    transparent
-    Indonesia
-    
-    
-        
-    1:20 minute(s) ago
-  
-  
-  
-    
-    14.*.*.*:8080
-    0.2690
-    1.56
-    69%
-    10H
-    elite
-    Vietnam
-    
-    
-        
-    1:20 minute(s) ago
-  
-  
-  
-    
-    121.*.*.*:1111
-    ?
-    ?
-    15%
-    213H
-    elite
-    China
-    
-    
-        
-    1:20 minute(s) ago
-  
-  
-  
-    
-    36.*.*.*:8080
-    0.2790
-    7.04
-    96%
-    10H
-    transparent
-    Indonesia
-    
-    
-        
-    1:20 minute(s) ago
-  
-  
-  
-    
-    221.*.*.*:1080
-    ?
-    ?
-    72%
-    1378H
-    anonymous
-    China
-    
-    
-        
-    1:20 minute(s) ago
-  
-  
-  
-    
-    123.*.*.*:3129
-    ?
-    ?
-    44%
-    166H
-    anonymous
-    China
-    
-    
-        
-    1:20 minute(s) ago
-  
-  
-  
-    
-    103.*.*.*:8080
-    3.3790
-    1.73
-    13%
-    75H
-    transparent
-    Indonesia
-    
-    
-        
-    1:20 minute(s) ago
-  
-  
-  
-    
-    221.*.*.*:10338
-    ?
-    ?
-    92%
-    64H
-    elite
-    China
-    
-    
-        
-    1:20 minute(s) ago
-  
-  
-  
-    
-    51.*.*.*:9950
-    0.3390
-    3.77
-    63%
-    44H
-    elite
-    Canada
-    
-    
-        
-    1:20 minute(s) ago
-  
-  
-  
-    
-    159.*.*.*:4750
-    2.1840
-    6.91
-    39%
-    92H
-    elite
-    Singapore
-    
-    
-        
-    1:20 minute(s) ago
-  
-  
-  
-    
-    154.*.*.*:3128
-    5.0070
-    2.46
-    28%
-    252H
-    anonymous
-    South Africa
-    
-    
-        
-    1:20 minute(s) ago
-  
-  
-  
-    
-    220.*.*.*:80
-    7.2890
-    3.13
-    11%
-    13H
-    elite
-    Australia
-    
-    
-        
-    1:20 minute(s) ago
-  
-  
-  
-    
-    73.*.*.*:80
-    6.3700
-    3.85
-    24%
-    63H
-    elite
-    United States
-    
-    
-        
-    1:20 minute(s) ago
-  
-  
-  
-    
-    101.*.*.*:1080
-    6.2390
-    3.07
-    10%
-    14H
-    anonymous
-    Indonesia
-    
-    
-        
-    1:20 minute(s) ago
-  
-  
-  
-    
-    45.*.*.*:3021
-    1.9610
-    2.65
-    12%
-    34H
-    transparent
-    Brazil
-    
-    
-        
-    1:20 minute(s) ago
-  
-  
-  
-    
-    47.*.*.*:8080
-    ?
-    ?
-    100%
-    ?
-    elite
-    Singapore
-    
-    
-        
-    1:29 minute(s) ago
-  
-  
-  
-    
-    109.*.*.*:8080
-    0.5980
-    18.48
-    58%
-    490H
-    anonymous
-    Russia
-    
-    
-        
-    2:20 minute(s) ago
-  
-  
-  
-    
-    79.*.*.*:8081
-    0.6070
-    19.65
-    82%
-    48H
+    185.*.*.*:8081
+    0.3800
+    26.25
+    57%
+    200H
     anonymous
     Poland
     
     
         
-    2:20 minute(s) ago
+    47 second(s) ago
   
   
   
     
-    38.*.*.*:80
-    2.1420
-    17.89
-    78%
-    20H
-    anonymous
-    Egypt
+    128.*.*.*:8080
+    2.4160
+    1.51
+    69%
+    104H
+    elite
+    Germany
     
     
         
-    2:20 minute(s) ago
+    47 second(s) ago
   
   
   
     
-    4.*.*.*:80
-    1.3100
-    11.31
-    43%
-    63H
+    78.*.*.*:80
+    0.1560
+    11.81
+    94%
+    416H
+    anonymous
+    Turkey
+    
+    
+        
+    47 second(s) ago
+  
+  
+  
+    
+    101.*.*.*:7890
+    ?
+    ?
+    51%
+    225H
+    elite
+    China
+    
+    
+        
+    47 second(s) ago
+  
+  
+  
+    
+    115.*.*.*:3128
+    ?
+    ?
+    39%
+    95H
+    elite
+    China
+    
+    
+        
+    47 second(s) ago
+  
+  
+  
+    
+    121.*.*.*:8080
+    ?
+    ?
+    14%
+    161H
+    elite
+    China
+    
+    
+        
+    47 second(s) ago
+  
+  
+  
+    
+    148.*.*.*:30118
+    0.9990
+    1.47
+    40%
+    81H
+    anonymous
+    United States
+    
+    
+        
+    47 second(s) ago
+  
+  
+  
+    
+    115.*.*.*:8128
+    ?
+    ?
+    46%
+    17H
+    transparent
+    China
+    
+    
+        
+    47 second(s) ago
+  
+  
+  
+    
+    221.*.*.*:9480
+    ?
+    ?
+    92%
+    65H
+    elite
+    China
+    
+    
+        
+    47 second(s) ago
+  
+  
+  
+    
+    103.*.*.*:8080
+    1.9450
+    1.15
+    6%
+    34H
+    transparent
+    Indonesia
+    
+    
+        
+    47 second(s) ago
+  
+  
+  
+    
+    39.*.*.*:30001
+    ?
+    ?
+    53%
+    23H
+    anonymous
+    China
+    
+    
+        
+    47 second(s) ago
+  
+  
+  
+    
+    138.*.*.*:80
+    8.5230
+    1.25
+    18%
+    130H
     elite
     United States
     
     
         
-    2:20 minute(s) ago
+    47 second(s) ago
   
   
   
     
-    195.*.*.*:80
-    0.5170
-    32.26
-    60%
-    1042H
-    elite
-    Spain
+    51.*.*.*:80
+    0.3300
+    32.47
+    39%
+    284H
+    transparent
+    France
     
     
         
-    2:20 minute(s) ago
+    1:46 minute(s) ago
   
   
   
     
-    102.*.*.*:8080
-    0.7900
-    9.53
-    47%
-    240H
+    192.*.*.*:3128
+    0.4290
+    32.89
+    38%
+    2049H
+    transparent
+    United States
+    
+    
+        
+    1:46 minute(s) ago
+  
+  
+  
+    
+    203.*.*.*:8080
+    0.7970
+    31.75
+    52%
+    291H
     anonymous
     Cambodia
     
     
         
-    2:20 minute(s) ago
+    1:46 minute(s) ago
+  
+  
+  
+    
+    47.*.*.*:3128
+    1.0390
+    19.77
+    70%
+    1146H
+    transparent
+    United States
+    
+    
+        
+    1:46 minute(s) ago
+  
+  
+  
+    
+    138.*.*.*:1024
+    0.7460
+    14.62
+    49%
+    196H
+    anonymous
+    Paraguay
+    
+    
+        
+    1:46 minute(s) ago
+  
+  
+  
+    
+    103.*.*.*:8080
+    0.8390
+    43.86
+    35%
+    138H
+    anonymous
+    Cambodia
+    
+    
+        
+    1:46 minute(s) ago
+  
+  
+  
+    
+    159.*.*.*:80
+    0.2220
+    1111.11
+    60%
+    1300H
+    elite
+    United States
+    
+    
+        
+    1:46 minute(s) ago
+  
+  
+  
+    
+    103.*.*.*:80
+    0.2580
+    9.54
+    41%
+    1429H
+    anonymous
+    Singapore
+    
+    
+        
+    1:46 minute(s) ago
+  
+  
+  
+    
+    23.*.*.*:80
+    0.2850
+    192.31
+    94%
+    2736H
+    anonymous
+    Singapore
+    
+    
+        
+    1:46 minute(s) ago
+  
+  
+  
+    
+    46.*.*.*:80
+    0.2890
+    84.03
+    35%
+    134H
+    anonymous
+    France
+    
+    
+        
+    1:46 minute(s) ago
+  
+  
+  
+    
+    154.*.*.*:80
+    1.5160
+    66.23
+    53%
+    619H
+    elite
+    Senegal
+    
+    
+        
+    1:46 minute(s) ago
+  
+  
+  
+    
+    63.*.*.*:80
+    1.1840
+    44.05
+    23%
+    181H
+    anonymous
+    United States
+    
+    
+        
+    1:46 minute(s) ago
+  
+  
+  
+    
+    153.*.*.*:9002
+    ?
+    3.83
+    86%
+    1361H
+    anonymous
+    China
+    
+    
+        
+    1:46 minute(s) ago
+  
+  
+  
+    
+    190.*.*.*:999
+    3.1290
+    0.93
+    16%
+    70H
+    transparent
+    Venezuela
+    
+    
+        
+    1:46 minute(s) ago
+  
+  
+  
+    
+    164.*.*.*:3128
+    7.3930
+    1.20
+    35%
+    10H
+    transparent
+    Japan
+    
+    
+        
+    1:46 minute(s) ago
+  
+  
+  
+    
+    121.*.*.*:8089
+    ?
+    ?
+    9%
+    10H
+    elite
+    China
+    
+    
+        
+    1:46 minute(s) ago
+  
+  
+  
+    
+    111.*.*.*:3128
+    ?
+    ?
+    38%
+    1926H
+    transparent
+    China
+    
+    
+        
+    1:46 minute(s) ago
+  
+  
+  
+    
+    203.*.*.*:80
+    9.0890
+    9.15
+    49%
+    1149H
+    anonymous
+    China
+    
+    
+        
+    1:46 minute(s) ago
+  
+  
+  
+    
+    134.*.*.*:80
+    2.8540
+    1.30
+    12%
+    20H
+    elite
+    United States
+    
+    
+        
+    1:46 minute(s) ago
+  
+  
+  
+    
+    39.*.*.*:9098
+    ?
+    ?
+    20%
+    167H
+    elite
+    China
+    
+    
+        
+    1:46 minute(s) ago
   
   
 
@@ -1124,7 +1120,6 @@ no
 1085
 1111
 1311
-1471
 1977
 2324
 3021
@@ -1191,7 +1186,6 @@ no
 9400
 9418
 9480
-9595
 9812
 9950
 9999
@@ -1207,16 +1201,15 @@ no
 11123
 11222
 15419
-16491
 18080
 18081
+18109
 18888
 26903
 27087
 27157
 28062
 28888
-28903
 29008
 29667
 29971
@@ -1229,7 +1222,6 @@ no
 30807
 31288
 32273
-32363
 32650
 33333
 34405
@@ -1408,7 +1400,6 @@ no
 1085
 1111
 1311
-1471
 1977
 2324
 3021
@@ -1475,7 +1466,6 @@ no
 9400
 9418
 9480
-9595
 9812
 9950
 9999
@@ -1491,16 +1481,15 @@ no
 11123
 11222
 15419
-16491
 18080
 18081
+18109
 18888
 26903
 27087
 27157
 28062
 28888
-28903
 29008
 29667
 29971
@@ -1513,7 +1502,6 @@ no
 30807
 31288
 32273
-32363
 32650
 33333
 34405
@@ -1673,7 +1661,6 @@ Proxy port::any
 1085
 1111
 1311
-1471
 1977
 2324
 3021
@@ -1740,7 +1727,6 @@ Proxy port::any
 9400
 9418
 9480
-9595
 9812
 9950
 9999
@@ -1756,16 +1742,15 @@ Proxy port::any
 11123
 11222
 15419
-16491
 18080
 18081
+18109
 18888
 26903
 27087
 27157
 28062
 28888
-28903
 29008
 29667
 29971
@@ -1778,7 +1763,6 @@ Proxy port::any
 30807
 31288
 32273
-32363
 32650
 33333
 34405
