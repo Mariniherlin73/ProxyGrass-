@@ -1,0 +1,38 @@
+Do you play chess online or other board games? May we recommend this great site where you can play chess with people from all over the world or vs a computer! Play online chess free vs computer!
+
+
+
+
+Play backgammon!
+Play backgammon online!:Do you play chess online or other board games? May we recommend this great site where you can play chess with people from all over the world or vs a computer! Play online chess free vs computer!
+Free Anonymous Proxy List
+
+
+
+
+12-14-2001
+
+
+
+There will be no separate announcements about the updated proxy lists from now on -- check the appropriate page instead. I will try to update it monthly.
+
+
+
+
+01-06-2001
+
+ 
+Happy New Year everybody! New version is out -- v1.2. This was mostly bug-fixing release.
+
+
+12-10-2000
+
+ 
+Welcome to our server http://www.multiproxy.org. It should be much faster now and server is more stable. Please update your bookmarks!
+
+
+
+
+How does anonymous surfing work?
+
+Anonymous web surfing works by putting a proxy server between the user and the web site. Your web browser talks to the anonymous proxy server, and the anonymous proxy server talks to the web site. The web site does not know who you are, it only knows who the anonymous proxy server is.  The anonymous proxy server does know who you are, so you better choose an anonymous proxy server that you trust.:12-14-2001
