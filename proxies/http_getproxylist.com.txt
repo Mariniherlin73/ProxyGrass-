@@ -1,0 +1,19 @@
+lastTested:Seconds since last tested
+port:Port available on
+anonymity:How much of your info is hidden
+protocol:The type
+allowsRefererHeader:Supports the Referer header
+allowsUserAgentHeader:Supports the User-Agent header
+allowsCustomHeaders:Supports any custom headers
+allowsCookies:Supports cookies
+allowsPost:Supports POST requests
+allowsHttps:Supports HTTPS requests
+country:Country it originates from
+notCountry:Filter out specific countries
+ip:The IP
+apiKey:optional, removes daily limits
+maxConnectTime:Seconds to establish connection
+maxSecondsToFirstByte:Seconds before data is received
+minDownloadSpeed:Download speed in bytes per second
+minUptime:What percentage uptime the proxy has
+all:Returns all matching proxies - Paid only
