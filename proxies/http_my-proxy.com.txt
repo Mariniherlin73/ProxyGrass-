@@ -1,0 +1,10 @@
+America:Europe
+Brazil:Czech
+Canada:Germany
+United States(CA, FL, GA, IL,MO, NJ, NY, TX):Netherlands
+Russia:Spain
+Switzerland:United Kingdom
+Asia:Others
+Hong Kong:Australia
+India:New Zealand
+Japan:South Africa
