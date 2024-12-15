@@ -1,35 +1,35 @@
-document.write("202.65.158.237".repeat(2).substring(14)):83
-document.write("146.59.202.70".repeat(1).substring(0)):80
-document.write(atob("NDcuOTEuODkuMw==")):8080
-document.write(atob("OC4y").concat("421.141.4111".substring(1+0, 9-1)).concat("88".split("").reverse().join(""))):9098
-document.write("20.39.10220.".substring(2+1, 18-9).concat(".210".repeat(1).substring(0)).concat(".222.222".substring(0+0, 6-2))):9098
-document.write("8.213.195.19115231.81.1.99".substring(0+0, 22-9)):8443
-document.write("8.211.49.86".repeat(2).substring(11)):8081
-document.write("40.5.47.250.40".substring(8-3, 8+4).concat("202.771".split("").reverse().join(""))):8008
-document.write(".18.135.133.116.1831133.51.16".substring(2-1, 29-14)):1080
-document.write("198.49.68.809.14806".substring(0+0, 8+4)):80
-document.write(atob("MTQ4LjY2LjYuMjEz")):80
-document.write("88.220".substring(1+0, 3+3).concat(".205052.".substring(0+0, 2+2)).concat("2.17227.1".substring(1+0, 3+2))):8081
-document.write(".3.742154.233.119.17.3".substring(3+4, 35-15).concat("2".substring(0+0, 0+1))):3128
-document.write("920180.249.112.169201".substring(6-2, 34-17).concat(atob("Mg=="))):80
-document.write("3.10.93.50".repeat(2).substring(10)):80
-document.write(".53.702.51".split("").reverse().join("").concat("22412".substring(1+0, 5-1))):1080
-document.write("91.651.312.8".split("").reverse().join("").concat("11".substring(0+0, 0+1))):4145
-document.write("18.2111.821".substring(2-1, 12-6).concat(".51.115".repeat(2).substring(7))):8081
-document.write("35.15415435.".substring(0+0, 5+1).concat(atob("Ljc4LjI1Mw=="))):80
-document.write("831118.1338311.".substring(7-3, 19-9).concat("16.16".substring(3-1, 5+0)).concat([52,56,55].map((code) => String.fromCharCode(code-6)).join(""))):1080
-document.write(atob("NzkuMTEwLjIwMi4x").concat("13".split("").reverse().join(""))):8081
-document.write([51,54,59,48,51,52,59,48,52].map((code) => String.fromCharCode(code-2)).join("").concat(".62".split("").reverse().join("")).concat([65].map((code) => String.fromCharCode(code-8)).join(""))):4145
-document.write(".422.0.8208.220.204..422.0".substring(13-3, 10+10).concat(atob("OTI="))):8080
-document.write("47.238.1".repeat(2).substring(8).concat("31.030.21231".substring(5-1, 6+4))):443
-document.write(".25".split("").reverse().join("").concat(atob("MjYuMTE0")).concat("922.".split("").reverse().join(""))):3128
-document.write(atob("NDcuMTIy").concat(".31.2388".substring(0+0, 10-3))):80
-document.write("6.1.47.76.1".substring(3+1, 12-1).concat("44.139".repeat(3).substring(12))):4145
-document.write("17.50.32515.207.3517.50.".substring(9+0, 9+9).concat(".241".repeat(1).substring(0))):80
-document.write("447".substring(1+0, 6-3).concat([53,57,59].map((code) => String.fromCharCode(code-7)).join("")).concat("999..3123.92.199999..312".substring(11-3, 10+6))):3128
-document.write("53.1181..812118.135.211.1853.1181..8".substring(23-10, 13+13).concat("22".substring(0+0, 0+1))):3128
-document.write("61.129.2.212".repeat(3).substring(24)):8080
-document.write("13.36.104.85".repeat(1).substring(0)):80
-document.write("18.121.102.34".split("").reverse().join("")):80
-document.write([59,54,57,58,59,54,57].map((code) => String.fromCharCode(code-8)).join("").concat("50.192".repeat(3).substring(12))):80
-document.write("2.23.5041443.202.154.2.23.50".substring(6+4, 35-14).concat("221222".substring(1+0, 2+2))):80
+document.write("1030175.100.103.1".substring(7-3, 30-14).concat("071".split("").reverse().join(""))):55443
+document.write("146.59.2".repeat(3).substring(16).concat("02.70702".substring(0+0, 3+2))):80
+document.write("47.91.89.".repeat(1).substring(0).concat("3".split("").reverse().join(""))):8080
+document.write(atob("OC4yMTEuNDkuOA==").concat([63].map((code) => String.fromCharCode(code-9)).join(""))):8081
+document.write("222.012.201.93".split("").reverse().join("")):9098
+document.write([62,52,56,56].map((code) => String.fromCharCode(code-6)).join("").concat([55,52,55,58,55,52,62,62].map((code) => String.fromCharCode(code-6)).join(""))):9098
+document.write(".2818.21.".substring(6-2, 11-3).concat(".13.195.1".substring(2+0, 12-3)).concat("9919".substring(2-1, 6-3))):8443
+document.write("52.74".split("").reverse().join("").concat([56,54,57].map((code) => String.fromCharCode(code-8)).join("")).concat("77.202".repeat(3).substring(12))):8008
+document.write("19819".substring(0+0, 6-3).concat(".49.68.80".repeat(3).substring(18))):80
+document.write([57,47,51,51,49,47].map((code) => String.fromCharCode(code-1)).join("").concat("0205.10152".substring(1+0, 7-1)).concat([64,59].map((code) => String.fromCharCode(code-9)).join(""))):8081
+document.write(atob("MTguMTM1LjE=").concat("133633.1161336".substring(8-4, 15-5))):1080
+document.write("215174315.207.35.24121517".substring(8-1, 33-13)):1080
+document.write([60,62].map((code) => String.fromCharCode(code-5)).join("").concat(".1.110.202.131.1.".substring(1+1, 26-12))):8081
+document.write(atob("MTQ5LjEyOS4yMg==").concat("9.6".split("").reverse().join(""))):4145
+document.write([61,60,54,58,59,59,54,57,57,65,54,57,63,58].map((code) => String.fromCharCode(code-8)).join("")):3128
+document.write("52.87.451.53".split("").reverse().join("").concat(atob("Mw=="))):80
+document.write(".03.13.10.93.50.03.1059.".substring(7-2, 30-15)):80
+document.write([57,47,51].map((code) => String.fromCharCode(code-1)).join("").concat("1.15.11".split("").reverse().join("")).concat("15".repeat(3).substring(4))):8081
+document.write("8.2".repeat(1).substring(0).concat("1.3113.11.".substring(3+1, 13-5)).concat("95156.1919516".substring(5-2, 5+4))):4145
+document.write("12.61.331.81".split("").reverse().join("")):1080
+document.write("847.238.842.7".substring(0+1, 4+4).concat("31".split("").reverse().join("")).concat("2.120.2122.120".substring(2+2, 10-1))):443
+document.write([57,47,51,51,49].map((code) => String.fromCharCode(code-1)).join("").concat([47,51,49,53,47,58,51].map((code) => String.fromCharCode(code-1)).join(""))):8080
+document.write("52.2".repeat(1).substring(0).concat("922.411.6".split("").reverse().join(""))):3128
+document.write("61.4.47.76.161.4".substring(2+3, 16-4).concat("44".split("").reverse().join("")).concat("931.".split("").reverse().join(""))):4145
+document.write(".3042515.207.35.241.30".substring(6+0, 19+0)):80
+document.write(atob("NDcuMTIyLg==").concat(".13".split("").reverse().join("")).concat("2238".substring(1+0, 6-2))):80
+document.write(".18.51213118.135.211.18.512131".substring(18-8, 30-10).concat("281.".split("").reverse().join(""))):3128
+document.write("43.20".substring(0+0, 8-3).concat([57,54,57,58,57,54,64,57].map((code) => String.fromCharCode(code-8)).join(""))):80
+document.write("401.63.31".split("").reverse().join("").concat("58..855".substring(3+0, 10-4))):80
+document.write("1.051.321.3".split("").reverse().join("").concat("9929".substring(2-1, 6-3))):80
+document.write("44.195.247.1455.179.1444.542".substring(0+0, 16-2)):80
+document.write("1.65.221.74".split("").reverse().join("").concat("85".split("").reverse().join(""))):8080
+document.write("32443.2324".substring(6-3, 11-4).concat("02.15".repeat(3).substring(10)).concat("214.212212.4".substring(3-1, 13-6))):80
+document.write("2.2944244.226.292".substring(3+4, 22-6).concat("99.".split("").reverse().join(""))):3128
+document.write("0818.185.169.1500816.5".substring(2+0, 12+4)):3128
