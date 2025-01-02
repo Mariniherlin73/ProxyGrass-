@@ -118,7 +118,7 @@ Port:Country
                          3128
                          443
                          Other:US
-                         US
+                         CA
                          AU
                          AU
                          AU
