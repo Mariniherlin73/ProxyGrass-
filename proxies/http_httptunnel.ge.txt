@@ -117,8 +117,8 @@ Port:Country
                          8080
                          3128
                          443
-                         Other:US
-                         CA
+                         Other:CA
+                         US
                          AU
                          AU
                          AU
