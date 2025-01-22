@@ -1,6 +1,5 @@
-proxies:proxies
-proxies_anonymous:proxies_anonymous
-LICENSE:LICENSE
+.github/workflows:.github/workflows
 README.md:README.md
-proxies.json:proxies.json
-proxies_pretty.json:proxies_pretty.json
+http.txt:http.txt
+socks4.txt:socks4.txt
+socks5.txt:socks5.txt
