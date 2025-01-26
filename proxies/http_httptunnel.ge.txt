@@ -117,7 +117,7 @@ Port:Country
                          8080
                          3128
                          443
-                         Other:US
+                         Other:CN
                          US
                          AU
                          AU
